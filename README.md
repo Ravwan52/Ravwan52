@@ -61,7 +61,7 @@
 ## 📬 Связаться со мной
 
 📧 Email: [ravwan321@gmail.com](mailto:ravwan321@gmail.com)  
-💬 Telegram: [@YaRavwan](https://t.meYaRavwan)  
+💬 Telegram: [@YaRavwan](https://t.me/YaRavwan)  
 
 ---
 
