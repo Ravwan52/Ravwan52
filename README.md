@@ -52,12 +52,6 @@
 
 ---
 
-## ✍️ Случайная цитата разработчика
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ## 🔝 Топ-репозитории
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ravwan52&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -67,7 +61,7 @@
 ## 📬 Связаться со мной
 
 📧 Email: [ravwan321@gmail.com](mailto:ravwan321@gmail.com)  
-💬 Telegram: [@твой_юзернейм](https://t.meYaRavwan)  
+💬 Telegram: [@YaRavwan](https://t.meYaRavwan)  
 
 ---
 
