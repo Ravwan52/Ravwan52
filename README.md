@@ -1,58 +1,75 @@
-👋 Привет! Я — Равшан Сайфидинов
-🎮 Unity-разработчик | 💻 Программист | 🚀 Люблю создавать игры и интересные проекты
+# 👋 Привет! Я — Равшан Сайфидинов  
+🎮 Unity-разработчик | 💻 Программист | 🚀 Люблю создавать игры и интересные проекты  
 
-💫 Обо мне
-🔧 Мои сильные стороны:
+---
 
-Легко интегрируюсь в существующие проекты
+## 💫 Обо мне
 
-Поддержка всех популярных платформ
+🔧 **Мои сильные стороны:**
+- Легко интегрируюсь в существующие проекты  
+- Поддержка всех популярных платформ  
+- Плавная и понятная настройка  
 
-Плавная и понятная настройка
+✨ **Почему стоит выбрать меня?**
+- Открытый исходный код  
+- Активное сообщество и регулярные обновления  
+- Отличная документация и чистый код  
 
-✨ Почему стоит выбрать меня?
+---
 
-Открытый исходный код
+## 🎮 Мои игры на Itch.io
 
-Активное сообщество и регулярные обновления
+-![Снимок экрана 2025-05-06 141832](https://github.com/user-attachments/assets/223984e1-1b99-4cbe-8b51-06bb13cdbc94)
+-![Снимок экрана 2025-05-06 141836](https://github.com/user-attachments/assets/081553a0-2df6-4c1b-9fff-837c641284a6)
+- 🧑‍🎅 [Santa Stuck](https://azizcdm.itch.io/santa-stuck) — весёлая новогодняя игра  
+- 🚀 [UpFall](https://ruslan-richards.itch.io/upfall) — вертикальный платформер с уникальной механикой  
 
-Отличная документация и чистый код
+---
 
-🎮 Мои игры на Itch.io
-🧑‍🎅 Santa Stuck — весёлая новогодняя игра
+## 🌐 Соцсети и контакты
 
-🚀 UpFall — вертикальный платформер с уникальной механикой
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/YaRavwan)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/Ravwan52)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravwan321@gmail.com)
 
-🧩 Портфолио
-🔥 Паркур-игра во Вулкане
-<img src="https://raw.githubusercontent.com/Ravwan52/assets/main/volcano_runner.png" alt="Паркур во Вулкане" width="400"/> > Игра с реалистичными звуками, нагнетающей атмосферой и паркур-механиками в вулканической среде.
-🎅 Новогодняя аркада Santa Stuck
-<img src="https://raw.githubusercontent.com/Ravwan52/assets/main/santa_stuck.png" alt="Santa Stuck" width="400"/> > Весёлая аркада с новогодней атмосферой и харизматичными персонажами: Санта и злой снеговик!
-🌐 Соцсети и контакты
+---
 
+## 💻 Технологии
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+---
 
-💻 Технологии
+## 📈 GitHub Статистика
 
+![](https://github-readme-stats.vercel.app/api?username=Ravwan52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Ravwan52&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravwan52&theme=dark&hide_border=false&layout=compact)
 
+---
 
+## 🏆 GitHub Достижения
 
+![](https://github-profile-trophy.vercel.app/?username=Ravwan52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-📈 GitHub Статистика
+---
 
+## 🔝 Топ-репозитории
 
+![](https://github-contributor-stats.vercel.app/api?username=Ravwan52&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
 
-🏆 GitHub Достижения
+## 📬 Связаться со мной
 
+📧 Email: [ravwan321@gmail.com](mailto:ravwan321@gmail.com)  
+💬 Telegram: [@YaRavwan](https://t.me/YaRavwan)
 
-🔝 Топ-репозитории
+---
 
+[![](https://visitcount.itsvg.in/api?id=Ravwan52&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📬 Связаться со мной
-📧 Email: ravwan321@gmail.com
-💬 Telegram: @YaRavwan
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
