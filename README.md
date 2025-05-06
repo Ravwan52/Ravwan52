@@ -19,8 +19,9 @@
 
 ## 🎮 Мои игры на Itch.io
 
--![Снимок экрана 2025-05-06 141832](https://github.com/user-attachments/assets/223984e1-1b99-4cbe-8b51-06bb13cdbc94)
--![Снимок экрана 2025-05-06 141836](https://github.com/user-attachments/assets/081553a0-2df6-4c1b-9fff-837c641284a6)
+-![image](https://github.com/user-attachments/assets/bad7743d-f0a9-4d43-9810-0fb5f4ac306c)
+-![image](https://github.com/user-attachments/assets/a5460791-3856-400a-b46b-106ebba4848b)
+
 - 🧑‍🎅 [Santa Stuck](https://azizcdm.itch.io/santa-stuck) — весёлая новогодняя игра  
 - 🚀 [UpFall](https://ruslan-richards.itch.io/upfall) — вертикальный платформер с уникальной механикой  
 
